@@ -27,8 +27,3 @@ Welcome to the School Timetable Platform project! This platform is designed to f
 - **HTML & CSS:** Front-end development for user interface.
 - **MySQL:** Database management for storing timetable and user data.
 
-## Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/school-timetable-platform.git

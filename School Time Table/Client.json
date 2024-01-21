@@ -1,0 +1,13 @@
+{
+    "web": {
+        "client_id": "521170435745-71oq5ap5prnb2h4197bp2ri5i3k941if.apps.googleusercontent.com",
+        "project_id": "cryptic-now-373123",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "http://localhost/php/OAuth2%20-%20Copie/connect.php"
+        ]
+    }
+}
